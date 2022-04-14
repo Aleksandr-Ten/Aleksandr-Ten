@@ -5,9 +5,7 @@ My name is Aleksandr. I'm a student at St. Mother Teresa High School.
 
 ### **💻 Programming languages**
 <p>
-  <a href="https://github.com/search?q=user%3AAidan-Lalonde-Novales+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
-  <a href="https://github.com/search?q=user%3AAidan-Lalonde-Novales+language%3Acpp"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
-  <br/>
+  <a href="https://github.com/search?q=user%3AAleksandr-Ten+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
 
 ### 😴 im rusty wit these 😴
 <p>
