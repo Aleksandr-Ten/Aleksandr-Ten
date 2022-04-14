@@ -1,11 +1,7 @@
 ### Howdy! 👋
 
 <li>
-how you doin my name's aidan nice to see you
-<li>
-im 💻LINUX CERTIFIED💻 and also know the👨‍🦯PACKET TRACER BASICS👨‍🦯
-<li>
-also i bike and tutor math, pre cool i think
+My name is Aleksandr. I'm a student at St. Mother Teresa High School.
 
 ### **💻 Programming languages**
 <p>
