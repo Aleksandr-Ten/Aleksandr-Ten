@@ -3,7 +3,7 @@
 <li>
 My name is Aleksandr. I'm a student at St. Mother Teresa High School.
 
-### **💻 Programming languages**
+### **📝 Programming Languages**
 <p>
   <a href="https://github.com/search?q=user%3AAleksandr-Ten+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
   
@@ -13,7 +13,7 @@ My name is Aleksandr. I'm a student at St. Mother Teresa High School.
   ![Repl.it](https://img.shields.io/badge/Repl.it-%230D101E.svg?style=for-the-badge&logo=replit&logoColor=white)
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-### **🚶‍♂️ operating systems I frequent 🚶‍♂️**
+### **💻 Operating Systems**
 <p>
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=white" alt="Linux">
   <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" alt="Ubuntu">
