@@ -20,7 +20,7 @@ also i bike and tutor math, pre cool i think
   <a href="https://github.com/Aidan-Lalonde-Novales?tab=repositories&q=&type=&language=javascript&sort="><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
   <br/>
   
-### **🛠️ toolies i keep on me 🛠️**
+### **🛠️ Tools**
   
   ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
   ![Repl.it](https://img.shields.io/badge/Repl.it-%230D101E.svg?style=for-the-badge&logo=replit&logoColor=white)
